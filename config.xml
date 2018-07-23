@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.HongDe.info" version="1.0.0">
     
-    <name>布丁布丁吃什麼？</name>
-    <description>這顆布丁是在無聊的世界中找尋樂趣的一種不能吃的食物。喜歡動漫畫、喜歡遊戲、喜歡程式、喜歡跟世間脫節的生活步調中，撰寫blog──布丁布丁吃什麼？ http://blog.pulipuli.info/</description>
-    <author href="http://blog.pulipuli.info" email="pulipuli.chen@gmail.com">布丁布丁吃布丁</author>
+    <name>Test</name>
+    <description>Test Phonegap</description>
+    <author email="g0937163316@gmail.com">HongDe/author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
@@ -27,5 +27,5 @@
     <!-- 外掛 -->
     <plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
     <plugin name="cordova-plugin-network-information" spec="~1.3.3" />
-    <plugin name="cordova-plugin-whitelist" spec="~1.3.2" />
+    <plugin name="cordova-plugin-whitelist" spec="~1.3.3" />
 </widget>
